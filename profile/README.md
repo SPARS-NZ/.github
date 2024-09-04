@@ -12,7 +12,7 @@
 # SPARS - Scalable Paging Automatic Relay System
 
 ## Developer: Joe Greening
-#Purpose: To enhance the situational awareness and response times of emergency service personnel in New Zealand.
+## Purpose: To enhance the situational awareness and operational efficiency of emergency service personnel in New Zealand.
 
 ## Background
 Emergency services in New Zealand rely on a combination of the AMS app and a traditional pager system for communication. Each has its limitations:
